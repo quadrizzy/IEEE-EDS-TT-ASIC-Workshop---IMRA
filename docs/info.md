@@ -17,7 +17,15 @@ AND,NAND, and OR gates are connected to input a and b
 
 Set the inputs and check the outputs match with the expected results
 
-[write the truth table here]
+|  input   |  output  |
+|----------|----------|
+| 00000000 | xxxxxxx1 |
+| 00000001 | xxxxxxx0 | 
+| 00000001 | xxxxxxx0 |
+| 00000001 | xxxxxxx0 |
+| 00000001 | xxxxxxx0 |
+| 00000001 | xxxxxxx0 |
+| 11111111 | 11111111 |
 
 ## External hardware
 
